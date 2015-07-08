@@ -14,6 +14,7 @@ import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 from sklearn import cross_validation
 
+#character and thius as welll
 
 # Imports the data. The target is the sentiment
 def train_data_import(data = "labeledTrainData.tsv"):
